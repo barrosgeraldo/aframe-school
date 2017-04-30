@@ -58,7 +58,7 @@
 
 ---
 
-## Glitch &mdash; Remixing an Existing Project
+## Glitch &mdash; Modificando um projeto existente
 
 > Glitch lets you remix or fork an existing project and use it as a base for your
 > new project. Before starting, we recommend linking Glitch to a [GitHub
