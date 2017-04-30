@@ -165,7 +165,7 @@ network have access to your local server
 
 ## Experimente exemplos do A-Frame
 
->Experimente exemplos em seu desktop ou smartphone do [A-Frame Homepage](https://aframe.io), [A-Frame Blog](https://aframe.io/blog/), ou [awesome-aframe](https://github.com/aframevr/awesome-aframe). Veja [webvr.rocks](https://webvr.rocks) para obter informações sobre como configurar WebVR com um headset se você tem um.
+>Experimente exemplos em seu desktop ou smartphone do [A-Frame Homepage](https://aframe.io), [A-Frame Blog](https://aframe.io/blog/), ou [awesome-aframe](https://github.com/aframevr/awesome-aframe). Veja [webvr.rocks](https://webvr.rocks) para aprender a configurar WebVR para usar com headset.
 
 <img data-src="media/img/examples.gif">
 
