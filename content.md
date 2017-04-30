@@ -70,7 +70,7 @@
 
 ---
 
-## Glitch &mdash; Editar o código
+## Glitch &mdash; Editando o seu código
 
 > Depois de [remixar o A-Frame Starter Glitch](https://glitch.com/~aframe/), confira onde você estará editando seu código. Navegue no editor e veja que você pode até editar o código do servidor back-end, carregar recursos, criar novos arquivos ou convidar outras pessoas para editar com você!
 
@@ -78,26 +78,21 @@
 
 ---
 
-## Glitch &mdash; Viewing Your Project
+## Glitch &mdash; Visualizando o seu projeto
 
-> After you've poked around the editor, see the project live.
+> Depois que você editou, veja o projeto ao vivo.
 
 <img class="stretch" data-src="media/img/glitch4.jpg">
 
 ---
 
-## Glitch &mdash; Exporting Your Project
+## Glitch &mdash; Exportando o seu projeto
 
-> At any time, if you want to download your project or export to GitHub, see the
-> *Advanced Options* menu. Downloading will give you a `.tgz` file which you can
-> unzip. For A-Frame projects, you mostly care about what's in the `public/`
-> folder, and ignore all the server-side code.
+> Em qualquer momento, se você quer fazer download do seu projeto ou exportar para o GitHub, veja *Advanced Options* no menu. Ao fazer download o projeto vem em um arquivo `.tgz` que você pode descompactar. Para projetos A-Frame, você deve se preocupar com o que está na pasta `public/` e ignorar todo o código do lado do servidor.
 
 <img class="stretch" data-src="media/img/glitch5.jpg">
 
-If you download a project, you
-might be interested in setting up a web development environment in the next
-section **&darr;**. Else, head **&rarr;** to start with A-Frame!
+Se você fizer download de um projeto, talvez esteja interessado em configurar um ambiente de desenvolvimento web na próxima seção **&darr;**. Ou próximo **&rarr;** para começar com A-Frame.
 
 ---
 
