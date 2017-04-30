@@ -3,7 +3,7 @@
 
 <div class="talk-title">
   <h1>A-Frame School</h1>
-  <h3>An interactive course for WebVR</h3>
+  <h3>Um curso interativo de WebVR</h3>
   <p class="talk-info">
     <b><a href="https://aframe.io">aframe.io</a></b>
   </p>
@@ -11,29 +11,29 @@
 
 ------
 
-## Prologue
+## Prólogo
 
 <!-- .slide: data-background="media/img/aframe.jpg" -->
 
-> Using [Glitch](https://glitch.com), the School will give you step-by-step
-> exercises to help you jump into [WebVR](https://webvr.rocks)! The School has
-> sections going &larr; and &rarr; but also subsections going **&uarr; and
+> Usando [Glitch](https://glitch.com), a School irá ensinar exercícios passo a passo
+> para você aprender [WebVR](https://webvr.rocks)! A School tem
+> sessões indo para &larr; e &rarr; mas também subseções aindo para **&uarr; e
 > &darr;**:
 
 <img class="stretch" data-src="media/img/navigation.jpg">
 
-**Navigate &darr;**
+**Navegue &darr;**
 
 ---
 
-### Resources During Your Journey
+### Recursos
 
-1. [Skim through the docs and FAQ](https://aframe.io/docs/)
-2. [Get help from peeps on Slack](https://aframe.io/community/#slack)
-3. [Ask questions on Stack Overflow](http://stackoverflow.com/questions/ask/?tags=aframe)
-4. If you are in a live workshop event, please raise your hand if you have a question!
+1. [Documentação e FAQ](https://aframe.io/docs/)
+2. [Obtenha ajuda no Slack](https://aframe.io/community/#slack)
+3. [Faça perguntas no Stack Overflow](http://stackoverflow.com/questions/ask/?tags=aframe)
+4. Se você estiver em uma oficina, por favor, levante a mão se você tiver uma pergunta!
 
-**Navigate &rarr;**
+**Navegue &rarr;**
 
 
 <!-- Lessons start below. -->
@@ -41,23 +41,20 @@
 
 ------
 
-## Glitch &mdash; Introduction
+## Glitch &mdash; Introdução
 
-> The School uses [Glitch](https://glitch.com) as your learning and development
-> environment for A-Frame.
+> A School usa [Glitch](https://glitch.com) como seu ambiente de aprendizado e > desenvolvimento para A-Frame.
 
 <img class="stretch" data-src="media/img/glitch.jpg">
 
-- Glitch lets you code in the browser without having to set
-anything up
-- Glitch lets you **remix** projects to use existing A-Frame projects as a
-  starting point
-- Glitch instantly publishes and hosts your site with a URL (e.g.,
+- Glitch permite desenvolver no navegador
+- Glitch permite **modificar** projetos já criados para criar novos
+- Glitch publica e hospeda instantaneamente seu site com uma URL (exemplo:
   `https://aframe.glitch.me`)
-- Glitch updates your A-Frame site live on every code change
-- Glitch lets multiple people code on the same project
+- Glitch atualiza seu site ao vivo a cada alteração de código
+- Glitch permite que várias pessoas desenvolvam no mesmo projeto
 
-*If you are interested in setting up a local development environment, skip ahead &darr;*
+*Se você está interessado em criar um ambiente de desenvolvimento local, pule &darr;*
 
 ---
 
