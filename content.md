@@ -163,19 +163,15 @@ network have access to your local server
 
 ------
 
-## Try Out A-Frame Examples
+## Experimente exemplos do A-Frame
 
-> Play with examples on your desktop or smartphone from the [A-Frame
-> Homepage](https://aframe.io), [A-Frame Blog](https://aframe.io/blog/), or
-> [awesome-aframe](https://github.com/aframevr/awesome-aframe). See
-> [webvr.rocks](https://webvr.rocks) for information on setting up WebVR with a
-> headset if you have one.
+>Experimente exemplos em seu desktop ou smartphone do [A-Frame Homepage](https://aframe.io), [A-Frame Blog](https://aframe.io/blog/), ou [awesome-aframe](https://github.com/aframevr/awesome-aframe). Veja [webvr.rocks](https://webvr.rocks) para obter informações sobre como configurar WebVR com um headset se você tem um.
 
 <img data-src="media/img/examples.gif">
 
 ------
 
-## Start with *Hello, WebVR*
+## Comece com *Hello, WebVR*
 
 > A-Frame provides easy-to-use HTML elements for starters called
 [primitives](https://aframe.io/docs/0.5.0/primitives/). In the sections below,
