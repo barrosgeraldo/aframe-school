@@ -43,7 +43,7 @@
 
 ## Glitch &mdash; Introdução
 
-> A School usa [Glitch](https://glitch.com) como seu ambiente de aprendizado e > desenvolvimento para A-Frame.
+> A School usa [Glitch](https://glitch.com) como seu ambiente de aprendizado e desenvolvimento para A-Frame.
 
 <img class="stretch" data-src="media/img/glitch.jpg">
 
