@@ -74,11 +74,6 @@
 
 > Depois de [remixar o A-Frame Starter Glitch](https://glitch.com/~aframe/), confira onde você estará editando seu código. Navegue no editor e veja que você pode até editar o código do servidor back-end, carregar recursos, criar novos arquivos ou convidar outras pessoas para editar com você!
 
-> Once you've [remixed the A-Frame Starter Glitch](https://glitch.com/~aframe/),
-> check out where you'll be editing your code. Poke around and see that you can
-> even edit the backend server code, upload assets, create new files, or invite
-> others to edit with you!
-
 <img class="stretch" data-src="media/img/glitch3.jpg">
 
 ---
