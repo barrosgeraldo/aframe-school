@@ -60,10 +60,9 @@
 
 ## Glitch &mdash; Modificando um projeto existente
 
-> Glitch lets you remix or fork an existing project and use it as a base for your
-> new project. Before starting, we recommend linking Glitch to a [GitHub
-> account](https://github.com/). After you remix, Glitch will give you a random
-> project and URL name, which you can change.
+> Glitch permite que você modifique ou fork um projeto existente para usá-lo como base para o seu novo projeto. Antes de 
+> iniciar, recomendamos conectar o Glitch a uma conta no GitHub. Depois que você modificar, Glitch lhe dará um projeto aleatório e 
+> URL, que você pode mudar.
 
 <img class="stretch" data-src="media/img/glitch2.jpg">
 
