@@ -60,7 +60,7 @@
 
 ## Glitch &mdash; Modificando um projeto existente
 
-> Glitch permite que você modifique ou fork um projeto existente para usá-lo como base para o seu novo projeto. Antes de 
+> Glitch permite que você remixe/fork um projeto existente para usá-lo como base para o seu novo projeto. Antes de 
 > iniciar, recomendamos conectar o Glitch a uma conta no GitHub. Depois que você modificar, Glitch lhe dará um projeto aleatório e 
 > URL, que você pode mudar.
 
@@ -70,7 +70,9 @@
 
 ---
 
-## Glitch &mdash; Editing Code
+## Glitch &mdash; Editar o código
+
+> Depois de [remixar o A-Frame Starter Glitch](https://glitch.com/~aframe/), confira onde você estará editando seu código. Navegue no editor e veja que você pode até editar o código do servidor back-end, carregar recursos, criar novos arquivos ou convidar outras pessoas para editar com você!
 
 > Once you've [remixed the A-Frame Starter Glitch](https://glitch.com/~aframe/),
 > check out where you'll be editing your code. Poke around and see that you can
