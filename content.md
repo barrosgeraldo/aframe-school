@@ -250,7 +250,7 @@ No Glitch abaixo **&darr;**, alguns recursos já serão fornecidos na seção de
 2. Adicione uma textura de imagem nas `<a-box>`
 3. Adicione uma textura de imagem na `<a-sphere>`
 4. Adicione uma textura de imagem no `<a-cone>`
-5. Adicione uma textura de imagem ao plano de fundo, `<a-sky>`. Encontre [imagens 360&deg; do FLickr](https://www.flickr.com/groups/equirectangular/)
+5. Adicione uma textura de imagem ao plano de fundo, `<a-sky>`. Encontre [imagens 360&deg; no FLickr](https://www.flickr.com/groups/equirectangular/)
 
 <img class="stretch" data-src="media/img/texture.jpg">
 
@@ -260,7 +260,7 @@ No Glitch abaixo **&darr;**, alguns recursos já serão fornecidos na seção de
 
 ## Abra o A-Frame Inspector
 
-> Hit **`<ctrl> + <alt> + i`** on **any** A-Frame scene to pop open a visual
+> Digite **`<ctrl> + <alt> + i`** em **qualquer** cena A-Frame to pop open a visual
 > editor, just like your browser's Dev Tools!  Try the Inspector on some of the
 > [homepage examples](https://aframe.io/examples/). [Read about the
 > Inspector](https://aframe.io/docs/master/guides/using-the-aframe-inspector.html).
