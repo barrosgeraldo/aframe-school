@@ -242,24 +242,23 @@ No Glitch abaixo **&darr;**, alguns recursos já serão fornecidos na seção de
 
 ## Adicione texturas &mdash; Texturas de imagem
 
-> Fill in the `src` HTML attributes with image URLs. [Read about applying an
-> image texture](https://aframe.io/docs/0.5.0/guides/#applying-an-image-texture).
+> Adicione no `src` atributos HTML com a URL da imagem. [Leia sobre como aplicar uma textura de imagem](https://aframe.io/docs/0.5.0/guides/#applying-an-image-texture).
 
-[Remix Lesson on Glitch](https://glitch.com/~aframe-school-textures/)  <!-- .element: class="cta-button glitch" -->
+[Remixe a lição no Glitch](https://glitch.com/~aframe-school-textures/)  <!-- .element: class="cta-button glitch" -->
 
-1. Add an image texture to the ground, `<a-plane>`
-2. Add image textures to `<a-box>`es
-3. Add an image texture to `<a-sphere>`
-4. Add an image texture to `<a-cone>`
-5. Add an image texture to the background, `<a-sky>`. Find [360&deg; images from FLickr](https://www.flickr.com/groups/equirectangular/)
+1. Adicione uma textura de imagem ao "solo", `<a-plane>`
+2. Adicione uma textura de imagem nas `<a-box>`es
+3. Adicione uma textura de imagem na `<a-sphere>`
+4. Adicione uma textura de imagem na `<a-cone>`
+5. Adicione uma textura de imagem ao plano de fundo, `<a-sky>`. Encontre [imagens 360&deg; do FLickr](https://www.flickr.com/groups/equirectangular/)
 
 <img class="stretch" data-src="media/img/texture.jpg">
 
-[View Result](https://aframe-school-textures.glitch.me/solution.html)  <!-- .element: class="cta-button" -->
+[Veja o resultado](https://aframe-school-textures.glitch.me/solution.html)  <!-- .element: class="cta-button" -->
 
 ------
 
-## Open the A-Frame Inspector
+## Abra o A-Frame Inspector
 
 > Hit **`<ctrl> + <alt> + i`** on **any** A-Frame scene to pop open a visual
 > editor, just like your browser's Dev Tools!  Try the Inspector on some of the
