@@ -260,10 +260,7 @@ No Glitch abaixo **&darr;**, alguns recursos já serão fornecidos na seção de
 
 ## Abra o A-Frame Inspector
 
-> Digite **`<ctrl> + <alt> + i`** em **qualquer** cena A-Frame to pop open a visual
-> editor, just like your browser's Dev Tools!  Try the Inspector on some of the
-> [homepage examples](https://aframe.io/examples/). [Read about the
-> Inspector](https://aframe.io/docs/master/guides/using-the-aframe-inspector.html).
+> Digite **`<ctrl> + <alt> + i`** em **qualquer** cena A-Frame para abrir o editor visual,  tipo as ferramentas de desenvolvedores do seu navegador!  Teste o Inspector em alguns dos [exemplos da página inicial](https://aframe.io/examples/). [Leia sobre o Inspector](https://aframe.io/docs/master/guides/using-the-aframe-inspector.html).
 
 <img class="stretch" data-src="media/img/inspector.gif">
 
