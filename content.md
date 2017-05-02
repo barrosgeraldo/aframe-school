@@ -214,42 +214,33 @@ network have access to your local server
 
 ---
 
-## Start with *Hello, WebVR* &mdash; Add Primitives
+## Comece com *Hello, WebVR* &mdash; Adicione primitivos
 
-> Add primitives the scene by adding HTML elements under `<a-scene>`.  [Read
-> about primitives](https://aframe.io/docs/0.5.0/primitives/).
+> Adicione primitivos a cena adicionando elementos HTML sob `<a-scene>`. [Leia sobre rotações](https://aframe.io/docs/0.5.0/primitives/).
 
-[Remix Lesson on Glitch](https://glitch.com/~aframe-school-primitives)  <!-- .element: class="cta-button glitch" -->
+[Remixe a lição no Glitch](https://glitch.com/~aframe-school-primitives)  <!-- .element: class="cta-button glitch" -->
 
-1. Add [`<a-torus-knot>`](https://aframe.io/docs/0.5.0/primitives/a-torus-knot.html) to the left
-2. Add [`<a-dodecahedron>`](https://aframe.io/docs/0.5.0/primitives/a-dodecahedron.html) to the right
-3. Add [`<a-text>`](https://aframe.io/docs/0.5.0/primitives/a-text.html) aligned in the center
+1. Adicione [`<a-torus-knot>`](https://aframe.io/docs/0.5.0/primitives/a-torus-knot.html) para a esquerda
+2. Adicione [`<a-dodecahedron>`](https://aframe.io/docs/0.5.0/primitives/a-dodecahedron.html) para a direita
+3. Adicione [`<a-text>`](https://aframe.io/docs/0.5.0/primitives/a-text.html) alinhado no centro
 
 <img class="stretch" data-src="https://cloud.githubusercontent.com/assets/674727/24266010/9c57cbe4-0fc2-11e7-968f-168f3649d109.png">
 
-[View Result](https://aframe-school-primitives.glitch.me/solution.html)  <!-- .element: class="cta-button" -->
+[Veja o resultado](https://aframe-school-primitives.glitch.me/solution.html)  <!-- .element: class="cta-button" -->
 
 ------
 
-## Add Textures &mdash; Uploading Assets
+## Adicione texturas &mdash; Carregando recursos
 
-> We'll be adding image textures to meshes to more appearance than a flat color.
-> [Find your own images
-> online](https://aframe.io/docs/0.5.0/introduction/faq.html#where-can-i-find-assets),
-> and upload them through the assets section in Glitch or through the uploader on
-> [cdn.aframe.io](https://cdn.aframe.io). Wherever else you may upload, make sure
-> it's being served with
-> [CORS](https://developer.mozilla.org/docs/Web/HTTP/Access_control_CORS) and
-> over HTTPS.
+> Iremos adicionar texturas de imagem as malhas para aparecer mais que apenas uma cor sólida. [Encontre suas próprias imagens online](https://aframe.io/docs/0.5.0/introduction/faq.html#where-can-i-find-assets) e faça upload delas por meio da sessão de "assets" do Glich ou por meio do uploader no [cdn.aframe.io](https://cdn.aframe.io). Em qualquer caso, certifique-se de que está sendo servido com [CORS](https://developer.mozilla.org/docs/Web/HTTP/Access_control_CORS) e sob HTTPS.
 
 <img class="stretch" data-src="media/img/glitchasset.jpg">
 
-In the Glitch below **&darr;**, some assets will already be provided in the
-assets section (pictured above).
+No Glitch abaixo **&darr;**, alguns recursos já serão fornecidos na seção de recursos (foto acima).
 
 ---
 
-## Add Textures &mdash; Image Textures
+## Adicione texturas &mdash; Texturas de imagem
 
 > Fill in the `src` HTML attributes with image URLs. [Read about applying an
 > image texture](https://aframe.io/docs/0.5.0/guides/#applying-an-image-texture).
