@@ -247,9 +247,9 @@ No Glitch abaixo **&darr;**, alguns recursos já serão fornecidos na seção de
 [Remixe a lição no Glitch](https://glitch.com/~aframe-school-textures/)  <!-- .element: class="cta-button glitch" -->
 
 1. Adicione uma textura de imagem ao "solo", `<a-plane>`
-2. Adicione uma textura de imagem nas `<a-box>`es
+2. Adicione uma textura de imagem nas `<a-box>`
 3. Adicione uma textura de imagem na `<a-sphere>`
-4. Adicione uma textura de imagem na `<a-cone>`
+4. Adicione uma textura de imagem no `<a-cone>`
 5. Adicione uma textura de imagem ao plano de fundo, `<a-sky>`. Encontre [imagens 360&deg; do FLickr](https://www.flickr.com/groups/equirectangular/)
 
 <img class="stretch" data-src="media/img/texture.jpg">
