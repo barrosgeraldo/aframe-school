@@ -60,8 +60,8 @@
 
 ## Glitch &mdash; Modificando um projeto existente
 
-> Glitch permite que você remixe/fork um projeto existente para usá-lo como base para o seu novo projeto. Antes de 
-> iniciar, recomendamos conectar o Glitch a uma conta no GitHub. Depois que você modificar, Glitch lhe dará um projeto aleatório e 
+> Glitch permite que você remixe/fork um projeto existente para usá-lo como base para o seu novo projeto. Antes de
+> iniciar, recomendamos conectar o Glitch a uma conta no GitHub. Depois que você modificar, Glitch lhe dará um projeto aleatório e
 > URL, que você pode mudar.
 
 <img class="stretch" data-src="media/img/glitch2.jpg">
@@ -173,10 +173,7 @@ network have access to your local server
 
 ## Comece com *Hello, WebVR*
 
-> A-Frame provides easy-to-use HTML elements for starters called
-[primitives](https://aframe.io/docs/0.5.0/primitives/). In the sections below,
-we'll modify basic meshes through HTML attributes (e.g., change colors,
-positions, rotations, scale) and get a feel for the workflow.
+> A-Frame fornece elementos HTML fáceis de usar para iniciantes chamados de [primitives](https://aframe.io/docs/0.5.0/primitives/). Nas seções abaixo, modificaremos o básico por meio de atributos HTML (por exemplo, alterar cores, posições, rotações, escala) para ter uma ideia do funcionamento.
 
 <img data-src="media/img/hellowebvr2.jpg">
 
@@ -184,41 +181,36 @@ positions, rotations, scale) and get a feel for the workflow.
 
 ---
 
-## Start with *Hello, WebVR* &mdash; Position
+## Comece com *Hello, WebVR* &mdash; Posição
 
-> Position defines where objects are in 3D space (X, Y, Z) in meters. Change
-> the `position` of the objects via the `position` HTML attribute values. [Read about
-> positions](https://aframe.io/docs/master/components/position.html).
+> A posição define onde o objeto estará no espaço 3D (X, Y, Z) em metros. Mude a `position` do objeto dando valores aos atributos. [Leia sobre posições](https://aframe.io/docs/master/components/position.html).
 
-[Remix Lesson on Glitch](https://glitch.com/~aframe-school-position)  <!-- .element: class="cta-button glitch" -->
+[Remixe a lição no Glitch](https://glitch.com/~aframe-school-position)  <!-- .element: class="cta-button glitch" -->
 
-1. Move the cylinder left by *decreasing* the `position`'s X value
-2. Move the box up by *increasing * the `position`'s Y value
-3. Move the sphere back by *decreasing* the `position`'s Z value
-4. **Extra Credit:** Add `<a-ring>` as a child of `<a-sphere>` and give it a position to see relative positions
+1. Mova o cilindro para a esquerda *diminuindo* o valor X da `position`
+2. Mova a caixa para cima *aumentando* o valor Y da `position`
+3. Mova a esfera para trás, *diminuindo* o valor Z da `position`
+4. **Extra:** Adicione `<a-ring>` como um filho de `<a-sphere>` e dê uma posição para ver posições relativas
 
 <img class="stretch" data-src="media/img/positionresult.jpg">
 
-[View Result](https://aframe-school-position.glitch.me/solution.html)  <!-- .element: class="cta-button" -->
+[Veja o resultado](https://aframe-school-position.glitch.me/solution.html)  <!-- .element: class="cta-button" -->
 
 ---
 
-## Start with *Hello, WebVR* &mdash; Rotation
+## Comece com *Hello, WebVR* &mdash; Rotação
+> A Rotação define a orientação dos objetos no espaço 3D (sobre os eixos X, Y, Z) em graus. Use a regra da mão direita para visualizar espacialmente a rotação. [Leia sobre rotações](https://aframe.io/docs/master/components/rotation.html).
 
-> Rotation defines orientation of objects in 3D space (about the X, Y, Z axes)
-> in degrees. Use the right-hand rule to spatially visualize rotation. [Read about
-> rotations](https://aframe.io/docs/master/components/rotation.html).
 
-[Remix Lesson on Glitch](https://glitch.com/~aframe-school-rotation)  <!-- .element: class="cta-button glitch" -->
+[Remixe a lição no Glitch](https://glitch.com/~aframe-school-rotation)  <!-- .element: class="cta-button glitch" -->
 
-1. Rotate the cylinder around the X axis so we see the bottom
-2. Rotate the box around the Y axis so the box is facing straight
-3. **Extra Credit:** Wrap the scene contents in `<a-entity>` (like a `<div>`)
-and give it a rotation to see relative rotations
+1. Gire o cilindro em torno do eixo X para ver o fundo
+2. Gire a caixa em torno do eixo Y para que a caixa fique com uma ponta achatada
+3. **Extra:** Envolva o conteúdo da cena em uma `<a-entity>` (é tipo uma `<div>`) e dê a rotação para ver rotações relativas
 
 <img class="stretch" data-src="media/img/rotationresult.jpg">
 
-[View Result](https://aframe-school-rotation.glitch.me/solution.html)  <!-- .element: class="cta-button" -->
+[Veja o resultado](https://aframe-school-rotation.glitch.me/solution.html)  <!-- .element: class="cta-button" -->
 
 ---
 
