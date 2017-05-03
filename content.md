@@ -268,7 +268,7 @@ No Glitch abaixo **&darr;**, alguns recursos já serão fornecidos na seção de
 
 ## Abra o A-Frame Inspector &mdash; Altere valores do componente
 
-> Modifique uma entidade modificando seus componentes no painel direito. O Inspector conhece todos os componentes do A-Frame, incluindo os componentes comunitários. Este exemplo inclui um componente de [geometria de texto](https://www.npmjs.com/package/aframe-text-geometry-component) externo, que o Inspetor pode modificar os valores da live.
+> Modifique uma entidade alterando seus componentes no painel direito. O Inspector conhece todos os componentes do A-Frame, incluindo os componentes comunitários. Este exemplo inclui um componente de [geometria de texto](https://www.npmjs.com/package/aframe-text-geometry-component) externo, que o Inspetor pode modificar os valores da live.
 
 [Abra o exemplo no Glitch](https://aframe-vaporwave.glitch.me)  <!-- .element: class="cta-button glitch" -->
 
@@ -279,20 +279,16 @@ No Glitch abaixo **&darr;**, alguns recursos já serão fornecidos na seção de
 
 ---
 
-## Open the A-Frame Inspector &mdash; Attach Components from the Registry
+## Abra o A-Frame Inspector &mdash; Adicione componentes do Registry
 
-> Use [physics components](https://github.com/donmccurdy/aframe-physics-system)
-> from the [Registry](https://aframe.io/registry/) to add gravity and collisions.
-> The Registry is a curated collection of A-Frame components. And the Inspector
-> is hooked up to the Registry so we can add components from the Registry in the
-> entity panel.
+> Use [componentes físicos](https://github.com/donmccurdy/aframe-physics-system) do [Registry](https://aframe.io/registry/) para adicionar gravidade e colisões. O Registry é uma coleção com curadoria de componentes A-Frame. E o Inspector está ligado ao Registry para que possamos adicionar componentes do Registry no painel de entidades.
 
-[Open Example on Glitch](https://aframe-vaporwave.glitch.me)  <!-- .element: class="cta-button glitch" -->
+[Abra o exemplo no Glitch](https://aframe-vaporwave.glitch.me)  <!-- .element: class="cta-button glitch" -->
 
-1. Add the `static-body` component to ground grid
-2. Add the `dynamic-body` component to the torus knot (the purple pretzel in the back)
-3. Increase the Y-position of the torus knot to make it higher up
-4. Exit the Inspector
+1. Adicione o componente `static-body` ao ground grid
+2. Adicione o componente `dynamic-body` ao nó do toro (o pretzel roxo na parte de trás)
+3. Aumente a posição Y do nó do toro para torná-lo mais alto
+4. Saia do Inspector
 
 <img class="stretch" data-src="media/img/inspectorregistry.gif">
 
