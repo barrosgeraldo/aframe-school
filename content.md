@@ -266,18 +266,14 @@ No Glitch abaixo **&darr;**, alguns recursos já serão fornecidos na seção de
 
 ---
 
-## Open the A-Frame Inspector &mdash; Change Component Values
+## Abra o A-Frame Inspector &mdash; Altere valores do componente
 
-> Modify an entity by modifying its components on the right-hand panel. The
-> Inspector knows about all A-Frame components, including community components.
->  This example includes an external [text-geometry
-> component](https://www.npmjs.com/package/aframe-text-geometry-component), which
-> the Inspector can modify the values of live.
+> Modifique uma entidade modificando seus componentes no painel direito. O Inspector conhece todos os componentes do A-Frame, incluindo os componentes comunitários. Este exemplo inclui um componente de [geometria de texto](https://www.npmjs.com/package/aframe-text-geometry-component) externo, que o Inspetor pode modificar os valores da live.
 
-[Open Example on Glitch](https://aframe-vaporwave.glitch.me)  <!-- .element: class="cta-button glitch" -->
+[Abra o exemplo no Glitch](https://aframe-vaporwave.glitch.me)  <!-- .element: class="cta-button glitch" -->
 
-1. Select one of the entities with text in the example
-2. Change the [`text-geometry` component's](https://www.npmjs.com/package/aframe-text-geometry-component) `value` property
+1. Selecione uma das entidades com texto no exemplo
+2. Mude a propriedade `value` do [`text-geometry` component](https://www.npmjs.com/package/aframe-text-geometry-component)
 
 <img class="stretch" data-src="media/img/inspectorchange.jpg">
 
