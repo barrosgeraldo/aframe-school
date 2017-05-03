@@ -14,7 +14,7 @@ body {
   background: radial-gradient(#FCFCFC, #ECECEC, #E7E7E7);
   background: -moz-radial-gradient(#FCFCFC, #ECECEC, #E7E7E7);
   background: -webkit-radial-gradient(#FCFCFC, #ECECEC, #E7E7E7);
-  background-color: #E7E7E7;
+  background-color: #FFF;
 }
 
 html:-webkit-full-screen-ancestor,
